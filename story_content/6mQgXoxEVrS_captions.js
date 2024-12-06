@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.94.33511.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.736%0D%0AThere%20are%20four%20options%20available%20to%20access%20Path%20of%20the%20Lion.%0D%0A%0D%0A"}')
